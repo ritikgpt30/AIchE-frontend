@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
 import { BrowserRouter, Route } from 'react-router-dom'
+import 'antd/dist/antd.css'
 
-
-import HomeIndex from './components/Aboutus/Index';
+import HomeIndex from './components/Landingpage/LandingIndex';
 
 
 

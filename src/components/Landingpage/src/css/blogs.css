@@ -1,0 +1,28 @@
+.landing-blogs-content-parent{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-top: 2rem;
+}
+.landing-blogs-content-child{
+width: 30%;
+height: 20rem;
+border: 2px solid green;
+}
+
+.landing-blogs-parent{
+    padding:2rem 5rem;
+    height:fit-content;
+    border:2px solid green;
+    margin-top: 5rem;
+    background: #f7f7f7;
+}
+.landing-blogs-parent-heading-line{
+    height:.5rem;
+    width: 7rem;
+    background: #54565b;
+}
+.landing-blogs-parent-heading-content{
+    font-size: 4rem;
+    color:#54565b;
+}
